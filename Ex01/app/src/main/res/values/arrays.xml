@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departmentList">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>MECH</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+</resources>
